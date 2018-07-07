@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科研数据分析之路</title>
+    <link>https://William0916.github.io/feed.xml</link>
+    <description>Recent content on 科研数据分析之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 06 Jul 2018 15:34:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://William0916.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello hugo</title>
+      <link>https://William0916.github.io/post/hello-hugo/</link>
+      <pubDate>Fri, 06 Jul 2018 15:34:05 +0200</pubDate>
+      
+      <guid>https://William0916.github.io/post/hello-hugo/</guid>
+      <description>Hello Hugo Hugo 是一个很有帮助的网站，结合Github的仓库功能，可以很流畅的建立一个个人的轻量博客或者技术网站！</description>
+    </item>
+    
+    <item>
+      <title>The first post</title>
+      <link>https://William0916.github.io/post/first/</link>
+      <pubDate>Fri, 06 Jul 2018 01:06:01 +0100</pubDate>
+      
+      <guid>https://William0916.github.io/post/first/</guid>
+      <description>博客建立好了 折腾了一天，从学习使用Github开始，感谢Hugo和Github的帮助，以及网络上许多教程的指导，总算建立起了这个博客网站。 希</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://William0916.github.io/about/</link>
+      <pubDate>Fri, 06 Jul 2018 00:49:02 +0100</pubDate>
+      
+      <guid>https://William0916.github.io/about/</guid>
+      <description>关于 这里是我的个人主页。 主题 建立这个网站的初衷是我个人学习软件的需要，在食品安全领域，研究性试验的大量数据需要各种数据分析软件的支持，因此，</description>
+    </item>
+    
+  </channel>
+</rss>

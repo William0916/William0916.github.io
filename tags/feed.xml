@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 科研数据分析之路</title>
+    <link>https://William0916.github.io/tags/</link>
+    <description>Recent content in Tags on 科研数据分析之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 06 Jul 2018 15:34:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://William0916.github.io/tags/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bar</title>
+      <link>https://William0916.github.io/tags/bar/</link>
+      <pubDate>Fri, 06 Jul 2018 15:34:05 +0200</pubDate>
+      
+      <guid>https://William0916.github.io/tags/bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://William0916.github.io/tags/food/</link>
+      <pubDate>Fri, 06 Jul 2018 01:06:01 +0100</pubDate>
+      
+      <guid>https://William0916.github.io/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://William0916.github.io/tags/test/</link>
+      <pubDate>Fri, 06 Jul 2018 15:34:05 +0200</pubDate>
+      
+      <guid>https://William0916.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

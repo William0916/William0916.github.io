@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bar on 科研数据分析之路</title>
+    <link>https://William0916.github.io/tags/bar/</link>
+    <description>Recent content in Bar on 科研数据分析之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 06 Jul 2018 15:34:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://William0916.github.io/tags/bar/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello hugo</title>
+      <link>https://William0916.github.io/post/hello-hugo/</link>
+      <pubDate>Fri, 06 Jul 2018 15:34:05 +0200</pubDate>
+      
+      <guid>https://William0916.github.io/post/hello-hugo/</guid>
+      <description>Hello Hugo Hugo 是一个很有帮助的网站，结合Github的仓库功能，可以很流畅的建立一个个人的轻量博客或者技术网站！</description>
+    </item>
+    
+  </channel>
+</rss>

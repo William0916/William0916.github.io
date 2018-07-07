@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://William0916.github.io/post/hello-hugo/</loc>
+    <lastmod>2018-07-06T15:34:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/post/first/</loc>
+    <lastmod>2018-07-06T01:06:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/about/</loc>
+    <lastmod>2018-07-06T00:49:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/tags/bar/</loc>
+    <lastmod>2018-07-06T15:34:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/tags/food/</loc>
+    <lastmod>2018-07-06T01:06:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/post/</loc>
+    <lastmod>2018-07-06T15:34:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/tags/</loc>
+    <lastmod>2018-07-06T15:34:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/tags/test/</loc>
+    <lastmod>2018-07-06T15:34:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2018-07-06T15:34:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://William0916.github.io/feed.xml</loc>
+    <lastmod>2018-07-06T15:34:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
